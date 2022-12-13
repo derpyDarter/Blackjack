@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FormsBlackjack/1.0.0": {
+        "dependencies": {
+          "Blackjack": "1.0.0"
+        },
+        "runtime": {
+          "FormsBlackjack.dll": {}
+        }
+      },
+      "Blackjack/1.0.0": {
+        "runtime": {
+          "Blackjack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormsBlackjack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blackjack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

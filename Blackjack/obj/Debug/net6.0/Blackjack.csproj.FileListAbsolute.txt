@@ -1,0 +1,12 @@
+C:\Users\Daniel\source\repos\Blackjack\Blackjack\bin\Debug\net6.0\Blackjack.deps.json
+C:\Users\Daniel\source\repos\Blackjack\Blackjack\bin\Debug\net6.0\Blackjack.dll
+C:\Users\Daniel\source\repos\Blackjack\Blackjack\bin\Debug\net6.0\ref\Blackjack.dll
+C:\Users\Daniel\source\repos\Blackjack\Blackjack\bin\Debug\net6.0\Blackjack.pdb
+C:\Users\Daniel\source\repos\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.dll
+C:\Users\Daniel\source\repos\Blackjack\Blackjack\obj\Debug\net6.0\ref\Blackjack.dll
+C:\Users\Daniel\source\repos\Blackjack\Blackjack\obj\Debug\net6.0\Blackjack.pdb
